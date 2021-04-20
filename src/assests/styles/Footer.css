@@ -40,4 +40,11 @@
     display: flex;
     flex-direction: column;
   }
+  .footer_leftLinks {
+    display: none;
+  }
+  .footer_rightLinks {
+    display: flex;
+    justify-content: center;
+  }
 }
